@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyrealtimeiosch-dev-143330-authRole",
+      "UnauthRoleArn": "arn:aws:iam::692147232101:role/amplify-amplifyrealtimeiosch-dev-143330-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::692147232101:role/amplify-amplifyrealtimeiosch-dev-143330-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyrealtimeiosch-dev-143330-deployment",
+      "UnauthRoleName": "amplify-amplifyrealtimeiosch-dev-143330-unauthRole",
+      "StackName": "amplify-amplifyrealtimeiosch-dev-143330",
+      "StackId": "arn:aws:cloudformation:us-east-2:692147232101:stack/amplify-amplifyrealtimeiosch-dev-143330/5d516a00-b68e-11eb-829f-0a9363ef648e",
+      "AmplifyAppId": "d15cciu08n0wjd"
+    }
+  }
+}
