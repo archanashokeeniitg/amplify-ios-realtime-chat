@@ -1,3 +1,5 @@
+### CMPE-277 Sec 48 - Smartphone App Dev - HomeWork - Cloud Connected App
+### Archana Shokeen 015237378
 # amplify-ios-realtime-chat
 ## IOS App using - Swift , Aws Amplify , GraphQL, DynamoDb
 
